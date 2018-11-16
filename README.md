@@ -1,5 +1,5 @@
 # Coins
-Pilot project of iOS cryptocurrency tracker app
+Pilot project of iOS cryptocurrency tracker app. Version 1.1.3. Current AppStore version: [here](https://itunes.apple.com/ru/app/id1360210734).
 
 <img src="/screenshots/en-US/iPhone%208-01.png" width="19%">   <img src="/screenshots/en-US/iPhone%208-02.png" width="19%">   <img src="/screenshots/en-US/iPhone%208-03.png" width="19%">   <img src="/screenshots/en-US/iPhone%208-04.png" width="19%">   <img src="/screenshots/en-US/iPhone%208-05.png" width="19%">
 
