@@ -1,0 +1,117 @@
+
+/* Class = "UILabel"; text = "Amount:"; ObjectID = "0BF-3D-diJ"; */
+"0BF-3D-diJ.text" = "Amount:";
+
+/* Class = "UILabel"; text = "Sell"; ObjectID = "34s-Pl-kme"; */
+"34s-Pl-kme.text" = "Sell";
+
+/* Class = "UILabel"; text = "Coins Catalog"; ObjectID = "3YS-S6-u7s"; */
+"3YS-S6-u7s.text" = "Coins Catalog";
+
+/* Class = "UIButton"; normalTitle = "$1.50 / month"; ObjectID = "4dT-JY-yOZ"; */
+"4dT-JY-yOZ.normalTitle" = "$1.50 / month";
+
+/* Class = "UILabel"; text = "Your are using free trial version of the app. Now you can track up to five cryptocurrencies in portfolio and use all available functionality. If you don't need more keep to use it for free.  To have no limitations you can use it by subscription."; ObjectID = "4jQ-AF-fs5"; */
+"4jQ-AF-fs5.text" = "Your are using free trial version of the app. Now you can track up to five cryptocurrencies in portfolio and use all available functionality. If you don't need more keep to use it for free.  To have no limitations you can use it by subscription.";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "5ig-HQ-hoK"; */
+"5ig-HQ-hoK.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Converter"; ObjectID = "ARe-XY-cM4"; */
+"ARe-XY-cM4.text" = "Converter";
+
+/* Class = "UILabel"; text = "Profit:"; ObjectID = "DIn-EC-JqG"; */
+"DIn-EC-JqG.text" = "Profit:";
+
+/* Class = "UIButton"; normalTitle = "Choose a coin"; ObjectID = "DPx-CJ-Ftt"; */
+"DPx-CJ-Ftt.normalTitle" = "Choose a coin";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Kxl-XC-5ud"; */
+"Kxl-XC-5ud.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Charging monthly:"; ObjectID = "NpQ-eV-Fx4"; */
+"NpQ-eV-Fx4.text" = "Charging monthly:";
+
+/* Class = "UILabel"; text = "Subscription"; ObjectID = "PUs-gr-khl"; */
+"PUs-gr-khl.text" = "Subscription";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "SVP-ZZ-sah"; */
+"SVP-ZZ-sah.normalTitle" = "Cancel";
+
+/* Class = "UITabBarItem"; title = "Coins"; ObjectID = "T6J-uU-jIe"; */
+"T6J-uU-jIe.title" = "Coins";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "U93-uH-1QL"; */
+"U93-uH-1QL.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Buy"; ObjectID = "Uy4-vH-qEX"; */
+"Uy4-vH-qEX.normalTitle" = "Buy";
+
+/* Class = "UILabel"; text = "Charging annually:"; ObjectID = "Wxv-6V-Ows"; */
+"Wxv-6V-Ows.text" = "Charging annually:";
+
+/* Class = "UILabel"; text = "Your iTunes Account will be charged once you confirm your payment. Your subscription automatically renews. When this happens, the same iTunes Account will be charged again with the same amount of money. You can cancel subscription at any time in your Apple ID Acount settings."; ObjectID = "Yut-Mj-1a6"; */
+"Yut-Mj-1a6.text" = "Your iTunes Account will be charged once you confirm your payment. Your subscription automatically renews. When this happens, the same iTunes Account will be charged again with the same amount of money. You can cancel subscription at any time in your Apple ID Acount settings.";
+
+/* Class = "UIButton"; normalTitle = "Sell"; ObjectID = "aYM-JK-wCW"; */
+"aYM-JK-wCW.normalTitle" = "Sell";
+
+/* Class = "UILabel"; text = "Version 1.0.0"; ObjectID = "aYz-3e-AjA"; */
+"aYz-3e-AjA.text" = "Version 1.0.0";
+
+/* Class = "UITabBarItem"; title = "Coins"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Coins";
+
+/* Class = "UITabBarItem"; title = "Converter"; ObjectID = "b4j-0M-X5r"; */
+"b4j-0M-X5r.title" = "Converter";
+
+/* Class = "UITabBarItem"; title = "Portfolio"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Portfolio";
+
+/* Class = "UILabel"; text = "Portfolio"; ObjectID = "gjA-tG-Baq"; */
+"gjA-tG-Baq.text" = "Portfolio";
+
+/* Class = "UITextField"; placeholder = "Cost, $"; ObjectID = "gqZ-nD-CaB"; */
+"gqZ-nD-CaB.placeholder" = "Cost, $";
+
+/* Class = "UILabel"; text = "No data avaiable"; ObjectID = "iNt-Mc-wji"; */
+"iNt-Mc-wji.text" = "No data avaiable";
+
+/* Class = "UIButton"; normalTitle = "$2.00 / month"; ObjectID = "jKh-Bw-YQc"; */
+"jKh-Bw-YQc.normalTitle" = "$2.00 / month";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "l29-H5-z0z"; */
+"l29-H5-z0z.placeholder" = "Amount";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "nAr-0B-IUu"; */
+"nAr-0B-IUu.text" = "Buy";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "p0L-Xz-jRB"; */
+"p0L-Xz-jRB.placeholder" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "pt6-rJ-4sE"; */
+"pt6-rJ-4sE.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Coins"; ObjectID = "spm-kz-Ief"; */
+"spm-kz-Ief.text" = "Coins";
+
+/* Class = "UITabBarItem"; title = "Subscription"; ObjectID = "tdI-7z-lb4"; */
+"tdI-7z-lb4.title" = "Subscription";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "wS9-pH-97X"; */
+"wS9-pH-97X.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Current cost:"; ObjectID = "y7k-gY-KAv"; */
+"y7k-gY-KAv.text" = "Current cost:";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "ydz-N8-GAx"; */
+"ydz-N8-GAx.placeholder" = "Amount";
+
+/* Class = "UITabBarItem"; title = "News"; ObjectID = "i7V-qG-GpW"; */
+"i7V-qG-GpW.title" = "News";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "hNZ-J6-pbE"; */
+"hNZ-J6-pbE.text" = "News";
+
+/* Class = "UILabel"; text = "Article"; ObjectID = "smy-0I-Rb3"; */
+"smy-0I-Rb3.text" = "Article";

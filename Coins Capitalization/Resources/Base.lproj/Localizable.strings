@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  Coins Capitalization
+
+  Created by Artem Kirillov on 25.03.18.
+  Copyright © 2018 ASK LLC. All rights reserved.
+*/
+
+/*  */
+"Market Capitalization" = "Market Capiralization";
+"Bitcoin Dominance" = "Bitcoin Dominance";
+"1D" = "1D";
+"1W" = "1W";
+"1M" = "1M";
+"3M" = "3M";
+"6M" = "6M";
+"1Y" = "1Y";
+"ALL" = "ALL";
+"Can't find any coins" = "Can't find any coins";
+"No info" = "No info";
+"B" = "B";
+"Free trial alert" = "Trial portoflio volume is three assets";
+"Free trial message" = "If you would like to track up to 5 coins for free, leave us a review in AppStore.";
+"Go to AppStore" = "Go to AppStore";
+"Cancel" = "Cancel";
+"Ok" = "Ok";
+"Let's try it" = "Let's try it";
+"No, thanks" = "No, thanks";
+"Pro alert" = "Seems you're pro!";
+"Pro message" = "Thank you for using this app. Hope you enjoy it. For tracking coins without any limitations you can buy unlimited portfolio.";
+"Pro message and payment" = "Thank you for using this app. Hope you enjoy it. For tracking coins without any limitations you can buy unlimited portfolio for";
+"You haven't added any assets to the portfolio" = "You haven't added any assets to the portfolio";
+"You haven't added any coins to favorites" = "You haven't added any coins to favorites";
+"Coins" = "Coins";
+"Buy" = "Buy";
+"Sell" = "Sell";
+"Amount" = "Amount";
+"Cost, $" = "Cost, $";
+"Portfolio" = "Portfolio";
+"Converter" = "Converter";
+"News" = "News";
+"Article" = "Article";
+"day" = "day";
+"severalDays" = "days";
+"manyDays" = "days";
+"hour" = "hour";
+"severalHours" = "hours";
+"manyHours" = "hours";
+"minute" = "minute";
+"severalMinutes" = "minutes";
+"manyMinutes" = "minutes";
+"ago" = "ago";
+"Something has gone wrong" = "Something has gone wrong";
+"The Internet connection appears to be offline" = "The Internet connection appears to be offline.";
+"All" = "All";
+"Favorite" = "Favorites";

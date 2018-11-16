@@ -1,0 +1,11 @@
+devices(["iPhone 5s", "iPhone 8", "iPhone 8 Plus", "iPhone X", "iPad Pro (12.9-inch)"])
+
+languages(["en-US", "ru-RU"])
+
+scheme("CoinsUITests")
+
+output_directory("./screenshots")
+
+clear_previous_screenshots(true)
+
+# localize_simulator(true)

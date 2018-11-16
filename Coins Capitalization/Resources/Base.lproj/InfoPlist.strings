@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Coins Capitalization
+
+  Created by Artem Kirillov on 25.03.18.
+  Copyright © 2018 ASK LLC. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Coins";
+"NSHumanReadableCopyright" = "2018 ASK LLC. All rights reserved.";

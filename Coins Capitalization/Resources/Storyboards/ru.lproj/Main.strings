@@ -1,0 +1,117 @@
+
+/* Class = "UILabel"; text = "Amount:"; ObjectID = "0BF-3D-diJ"; */
+"0BF-3D-diJ.text" = "Количество:";
+
+/* Class = "UILabel"; text = "Sell"; ObjectID = "34s-Pl-kme"; */
+"34s-Pl-kme.text" = "Продажа";
+
+/* Class = "UILabel"; text = " Coins Catalog"; ObjectID = "3YS-S6-u7s"; */
+"3YS-S6-u7s.text" = "Каталог монет";
+
+/* Class = "UIButton"; normalTitle = "$1.50 / month"; ObjectID = "4dT-JY-yOZ"; */
+"4dT-JY-yOZ.normalTitle" = "$1.50 / месяц";
+
+/* Class = "UILabel"; text = "Your are using free trial version of the app. Now you can track up to five cryptocurrencies in portfolio and use all available functionality. If you don't need more keep to use it for free.  To have no limitations you can use it by subscription."; ObjectID = "4jQ-AF-fs5"; */
+"4jQ-AF-fs5.text" = "Вы используете бесплатную версию приложения. Сейчас вы можете отслеживать до трех монет в портфолио. Если вам не нужно больше, то просто продолжайте пользоваться приложением бесплатно. Чтобы пользоваться им без ограничений, оформите подписку.";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "5ig-HQ-hoK"; */
+"5ig-HQ-hoK.placeholder" = "Поиск";
+
+/* Class = "UILabel"; text = "Converter"; ObjectID = "ARe-XY-cM4"; */
+"ARe-XY-cM4.text" = "Конвертер";
+
+/* Class = "UILabel"; text = "Profit:"; ObjectID = "DIn-EC-JqG"; */
+"DIn-EC-JqG.text" = "Прибыль:";
+
+/* Class = "UIButton"; normalTitle = "Choose a coin"; ObjectID = "DPx-CJ-Ftt"; */
+"DPx-CJ-Ftt.normalTitle" = "Выберите монету";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Kxl-XC-5ud"; */
+"Kxl-XC-5ud.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Charging monthly:"; ObjectID = "NpQ-eV-Fx4"; */
+"NpQ-eV-Fx4.text" = "Снятие помесячно:";
+
+/* Class = "UILabel"; text = "Subscription"; ObjectID = "PUs-gr-khl"; */
+"PUs-gr-khl.text" = "Подписка";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "SVP-ZZ-sah"; */
+"SVP-ZZ-sah.normalTitle" = "Отмена";
+
+/* Class = "UITabBarItem"; title = "Coins"; ObjectID = "T6J-uU-jIe"; */
+"T6J-uU-jIe.title" = "Монеты";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "U93-uH-1QL"; */
+"U93-uH-1QL.normalTitle" = "Готово";
+
+/* Class = "UIButton"; normalTitle = "Buy"; ObjectID = "Uy4-vH-qEX"; */
+"Uy4-vH-qEX.normalTitle" = "Покупка";
+
+/* Class = "UILabel"; text = "Charging annually:"; ObjectID = "Wxv-6V-Ows"; */
+"Wxv-6V-Ows.text" = "Снятие ежегодно:";
+
+/* Class = "UILabel"; text = "Your iTunes Account will be charged once you confirm your payment. Your subscription automatically renews. When this happens, the same iTunes Account will be charged again with the same amount of money. You can cancel subscription at any time in your Apple ID Acount settings."; ObjectID = "Yut-Mj-1a6"; */
+"Yut-Mj-1a6.text" = "Оплата спишется с карты, которая привязана к вашему аккаунту iTunes, как только вы подтвердите оплату. Ваша подписка будет обновляться автоматически. Каждый раз оплата будет производиться с карты, которая привязана к тому же аккаунту iTunes. Вы можете отменить подписку в любое время в настройках вашего Apple ID Acount.";
+
+/* Class = "UIButton"; normalTitle = "Sell"; ObjectID = "aYM-JK-wCW"; */
+"aYM-JK-wCW.normalTitle" = "Продажа";
+
+/* Class = "UILabel"; text = "Version 1.0.0"; ObjectID = "aYz-3e-AjA"; */
+"aYz-3e-AjA.text" = "Version 1.0.0";
+
+/* Class = "UITabBarItem"; title = "Coins"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Монеты";
+
+/* Class = "UITabBarItem"; title = "Converter"; ObjectID = "b4j-0M-X5r"; */
+"b4j-0M-X5r.title" = "Конвертер";
+
+/* Class = "UITabBarItem"; title = "Portfolio"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Портфель";
+
+/* Class = "UILabel"; text = "Portfolio"; ObjectID = "gjA-tG-Baq"; */
+"gjA-tG-Baq.text" = "Портфель";
+
+/* Class = "UITextField"; placeholder = "Cost, $"; ObjectID = "gqZ-nD-CaB"; */
+"gqZ-nD-CaB.placeholder" = "Стоимость, $";
+
+/* Class = "UILabel"; text = "No data avaiable"; ObjectID = "iNt-Mc-wji"; */
+"iNt-Mc-wji.text" = "Нет данных";
+
+/* Class = "UIButton"; normalTitle = "$2.00 / month"; ObjectID = "jKh-Bw-YQc"; */
+"jKh-Bw-YQc.normalTitle" = "$2.00 / месяц";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "l29-H5-z0z"; */
+"l29-H5-z0z.placeholder" = "Количество";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "nAr-0B-IUu"; */
+"nAr-0B-IUu.text" = "Покупка";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "p0L-Xz-jRB"; */
+"p0L-Xz-jRB.placeholder" = "Поиск";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "pt6-rJ-4sE"; */
+"pt6-rJ-4sE.normalTitle" = "Готово";
+
+/* Class = "UILabel"; text = "Coins"; ObjectID = "spm-kz-Ief"; */
+"spm-kz-Ief.text" = "Монеты";
+
+/* Class = "UITabBarItem"; title = "Subscription"; ObjectID = "tdI-7z-lb4"; */
+"tdI-7z-lb4.title" = "Подписка";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "wS9-pH-97X"; */
+"wS9-pH-97X.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "Current cost:"; ObjectID = "y7k-gY-KAv"; */
+"y7k-gY-KAv.text" = "Текущая стоимость:";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "ydz-N8-GAx"; */
+"ydz-N8-GAx.placeholder" = "Количество";
+
+/* Class = "UITabBarItem"; title = "News"; ObjectID = "i7V-qG-GpW"; */
+"i7V-qG-GpW.title" = "Новости";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "hNZ-J6-pbE"; */
+"hNZ-J6-pbE.text" = "Новости";
+
+/* Class = "UILabel"; text = "Article"; ObjectID = "smy-0I-Rb3"; */
+"smy-0I-Rb3.text" = "Статья";

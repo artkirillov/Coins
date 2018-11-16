@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  Coins Capitalization
+
+  Created by Artem Kirillov on 25.03.18.
+  Copyright © 2018 ASK LLC. All rights reserved.
+*/
+
+/*  */
+"Market Capitalization" = "Капитализация";
+"Bitcoin Dominance" = "Доля биткоина";
+"1D" = "1Д";
+"1W" = "1Н";
+"1M" = "1М";
+"3M" = "3М";
+"6M" = "6М";
+"1Y" = "1Г";
+"ALL" = "ВСЕ";
+"Can't find any coins" = "Поиск не дал результатов";
+"No info" = "Нет данных";
+"B" = " млрд.";
+"Free trial alert" = "Пробный объем портфеля 3 монеты";
+"Free trial message" = "Если вы хотите отслеживать до 5 монет бесплатно, оставьте нам отзыв в AppStore, пожалуйста)";
+"Go to AppStore" = "Перейти в AppStore";
+"Cancel" = "Отмена";
+"Ok" = "Ок";
+"Let's try it" = "Давайте попробуем";
+"No, thanks" = "Нет, спасибо";
+"Pro alert" = "Похоже вы профи!";
+"Pro message" = "Спасибо, что используете это приложение. Надеемся, оно вам нравится. Для отслеживания монет без каких-либо ограничений вы можете купить неограниченный объем портфеля.";
+"Pro message and payment" = "Спасибо, что используете это приложение. Надеемся, оно вам нравится. Для отслеживания монет без каких-либо ограничений вы можете купить неограниченный объем портфеля за";
+"You haven't added any assets to the portfolio" = "Вы пока не добавили ни одной монеты в портфолио";
+"You haven't added any coins to favorites" = "Вы пока не добавили ни одной монеты в избранное";
+"Coins" = "Монеты";
+"Buy" = "Покупка";
+"Sell" = "Продажа";
+"Amount" = "Количество";
+"Cost, $" = "Стоимость, $";
+"Portfolio" = "Портфель";
+"Converter" = "Конвертер";
+"News" = "Новости";
+"Article" = "Статья";
+"day" = "день";
+"severalDays" = "дня";
+"manyDays" = "дней";
+"hour" = "час";
+"severalHours" = "часа";
+"manyHours" = "часов";
+"minute" = "минута";
+"severalMinutes" = "минуты";
+"manyMinutes" = "минут";
+"ago" = "назад";
+"Something has gone wrong" = "Что-то пошло не так";
+"The Internet connection appears to be offline" = "Вероятно, соединение с Интернетом прервано.";
+"All" = "Все";
+"Favorite" = "Избранное";
